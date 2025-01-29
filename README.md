@@ -30,5 +30,5 @@ pip install pandas numpy scikit-learn joblib
 Este proyecto está bajo la **MIT License**.  
 
 ## 📬 Contacto  
-📧 **Email:** panchoflo14
-🔗 **GitHub:** [tu_usuario](https://github.com/Panchoflo14)
+📧 **Email:** panchoflo13@gmail.com
+🔗 **GitHub:** [Panchoflo14](https://github.com/Panchoflo14)
